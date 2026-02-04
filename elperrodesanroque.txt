@@ -14,4 +14,8 @@ Gemma Urbano
 Jose
 =======
 EDU :)
+<<<<<<< HEAD
 >>>>>>> 0aeed1f17410c1d5bafbfd06c71b6d0d60c30c2e
+=======
+Alvaro Rincon :(
+>>>>>>> 27eb1b6b18ddae50d834c62d118efa50ce6b36fd
