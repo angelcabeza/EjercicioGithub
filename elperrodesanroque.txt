@@ -14,6 +14,7 @@ hello Ángel wellcome to ediae
 Raimundo Morales Solier
 Antonio Garcia Pando
 Jose Luis Ruiz Rodriguez
+<<<<<<< HEAD
 
 Guillaume
 Gemma Urbano
@@ -25,3 +26,11 @@ EDU :)
 Alvaro Rincon :(
  Marta Travieso
 
+=======
+Guillaume
+Gemma Urbano
+Jose
+EDU :)
+Alvaro Rincon :(
+Rafa Garr 
+>>>>>>> 46fbc56ceec722300a8640c66d77c2a346b365e2
