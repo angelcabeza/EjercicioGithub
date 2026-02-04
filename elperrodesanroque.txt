@@ -4,23 +4,9 @@ hello Ángel wellcome to ediae
 Raimundo Morales Solier
 Antonio Garcia Pando
 Jose Luis Ruiz Rodriguez
-<<<<<<< HEAD
->>>>>>> 2b5f2f9ec8c56f020180aa38a32be0af71c8e003
-=======
 Guillaume
 Gemma Urbano
-<<<<<<< HEAD
->>>>>>> ccb71c0b035f100c1f09050a06d6315c8881ab6a
 Jose
-=======
 EDU :)
-<<<<<<< HEAD
 Alvaro Rincon :(
 Rafa Garr 
-=======
-<<<<<<< HEAD
->>>>>>> 0aeed1f17410c1d5bafbfd06c71b6d0d60c30c2e
-=======
-Alvaro Rincon :(
->>>>>>> 27eb1b6b18ddae50d834c62d118efa50ce6b36fd
->>>>>>> e07d0f19d933f6f10bf955598772bcd2d30939c1
