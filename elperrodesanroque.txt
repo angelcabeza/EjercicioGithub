@@ -4,4 +4,10 @@ jose luis
 hello Ángel wellcome to ediae
 Raimundo Morales Solier
 Antonio Garcia Pando
+<<<<<<< HEAD
 >>>>>>> 2b5f2f9ec8c56f020180aa38a32be0af71c8e003
+=======
+Guillaume
+Gemma Urbano
+>>>>>>> ccb71c0b035f100c1f09050a06d6315c8881ab6a
+Jose
